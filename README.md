@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deoprag
 - 👀 I’m interested in ... cyber security and web developement
 - 🌱 I’m currently learning ... basic programing languages as C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... actually just organize my repositories here
 - 📫 How to reach me ... here on github or my email xD
 
 <!---
