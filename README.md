@@ -14,7 +14,6 @@ I'm a Front-End Developer from Brazil, always looking to learn something. I'm cu
 [![GitHub Badge](https://camo.githubusercontent.com/4d36c50beb688063fc2cfa520759a5b149858bce931bd0d89e63e231c553abbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3238324333343f6c6f676f3d676974687562)]()
 
 ## :cyclone: Stats
-![Deoprag's github stats](https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=great-gatsby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=great-gatsby)](https://github.com/Deoprag/github-readme-stats)
+![Deoprag's github stats](https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=great-gatsby)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=great-gatsby)](https://github.com/Deoprag/github-readme-stats)
 
 
