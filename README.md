@@ -16,7 +16,7 @@ I'm a Front-End Developer from Brazil, always looking to learn something. I'm cu
 </div>
 
 ## :cyclone: Stats
-<div style="display" display="inline-block">
+<div>
   <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=github_dark">
   <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=github_dark">
 </div>
