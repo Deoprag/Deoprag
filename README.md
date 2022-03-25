@@ -18,6 +18,6 @@ I'm a Front-End Developer from Brazil, always looking to learn something. I'm cu
 ## :cyclone: Stats
 <div>
   <a href="https://github.com/Deoprag">
-  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=github_dark">
-  <img height="160em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=github_dark">
+  <img align="center" height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=github_dark">
+  <img align="center" height="160em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=github_dark">
 </div>
