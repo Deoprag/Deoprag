@@ -3,17 +3,20 @@ I'm a Front-End Developer from Brazil, always looking to learn something. I'm cu
 
 ## 🤙 Social Links
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rocha-1889b057/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/deopr4g)
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rocha-1889b057/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deopr4g)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/PedroRochaD)
 ## 🛠️Techs
 
-[![HTML Badge](https://camo.githubusercontent.com/15d7d4b9e4a96ff4137d271d256d4726448d284b2e8a731719a24bf078ae7c62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d3238324333343f6c6f676f3d68746d6c35)]()
-[![CSS Badge](https://camo.githubusercontent.com/46f09b916649197f9fa990eb89256d5b50fd732580bafb0471c2d72333e689e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3238324333343f6c6f676f3d63737333266c6f676f436f6c6f723d313537324236)]()
-[![JavaScript Badge](https://camo.githubusercontent.com/a234bb13e7254d9c2abe26d6e37b6acbe7178b3dfad2254c980a9ae5998c20c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d3238324333343f7374796c653d666c6174266c6f676f3d6a617661736372697074)]()
-[![GitHub Badge](https://camo.githubusercontent.com/4d36c50beb688063fc2cfa520759a5b149858bce931bd0d89e63e231c553abbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3238324333343f6c6f676f3d676974687562)]()
+<div style="display" display="inline-block">
+<img align="center" alt="Deoprag-HTML" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" alt="Deoprag-CSS" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="Deoprag-JS" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="Deoprag-C" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+</div>
 
 ## :cyclone: Stats
-![Deoprag's github stats](https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=great-gatsby)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=great-gatsby)](https://github.com/Deoprag/github-readme-stats)
-
-
+<div style="display" display="inline-block">
+  <img align = "center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=great-gatsby">
+  <img align = "center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=great-gatsby">
+</div>
