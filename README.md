@@ -1,5 +1,5 @@
 # Hi there 🖖, my name is Pedro!
-I'm a Front-End Developer from Brazil, always looking to learn something. I'm currently learning JavaScript and C.
+
 
 ## 🤙 Social Links
 
