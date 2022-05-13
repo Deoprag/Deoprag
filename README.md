@@ -18,6 +18,6 @@
 ## ⚙️ Estatísticas
 <div>
   <a href="https://github.com/Deoprag">
-  <img height="160em" alt="GitHub Stats" margin-right="10px" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=github_dark">
+  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=github_dark">
   <img height="160em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=github_dark">
 </div>
