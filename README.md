@@ -1,10 +1,6 @@
 # Opa, beleza? 🖖, eu sou o Pedro!
 
 
-## 🤙 Redes Sociais
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rocha-1889b057/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deopr4g)
 ## 🛠️ Tecnologias
 
 <div style="display" display="inline-block">
