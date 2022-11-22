@@ -14,7 +14,8 @@
 ## ⚙️ Estatísticas
 <div>
   <a href="https://github.com/Deoprag">
-  <img height="115em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=midnight-purple">
-  <img height="115em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=midnight-purple">
-  <img height="115em" alt="Streak" src="https://streak-stats.demolab.com?user=Deoprag&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D&ring=FF4DEF&fire=DD9A07&dates=EC69E5">
+  <img height="140em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=midnight-purple"><br>
+  <img height="140em" alt="Streak" src="https://streak-stats.demolab.com?user=Deoprag&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D&ring=FF4DEF&fire=DD9A07&dates=EC69E5"><br>
+  <img height="140em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=midnight-purple"><br>
+  
 </div>
