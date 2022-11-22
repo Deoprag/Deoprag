@@ -1,7 +1,7 @@
 # Opa, beleza? 🖖, eu sou o Pedro!
 
 
-## 🛠️ Tecnologias
+## 👨‍💻 Tecnologias
 
 <div style="display" display="inline-block">
 <img align="center" alt="Deoprag-HTML" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -11,13 +11,13 @@
 <img align="center" alt="Deoprag-Java" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
-## ⚙️ Estatísticas
+## 📊 Estatísticas
 <div>
   <a href="https://github.com/Deoprag">
   <p align="center">
-  <img height="140em" alt="Streak" src="https://streak-stats.demolab.com?user=Deoprag&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D&ring=FF4DEF&fire=DD9A07&dates=EC69E5">
-  <img height="140em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=midnight-purple">
-  <img height="140em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=midnight-purple">
+  <img height="140em" alt="Streak" src="https://streak-stats.demolab.com?user=Deoprag&theme=dark&date_format=j%2Fn%5B%2FY%5D&dates=6ce186">
+  <img height="140em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deoprag&show_icons=true&theme=dark">
+  <img height="140em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=dark">
   </p>
     
 </div>
