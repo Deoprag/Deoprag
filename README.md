@@ -1,10 +1,4 @@
-# 🐒 pedro
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-rocha-1889b057/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+# 🐒 pedro 
 
 > full stack por acaso e fã de java
 
@@ -20,11 +14,14 @@
 
 ---
 
+### ⏳ tempo de voo (wakatime)
+
+---
+
 ### 📈 stats
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deoprag&theme=gruvbox&hide_border=true&area=true&bg_color=282828&color=d65d0e&line=d79921&point=fbf1c7" />
-
 <p align="center">
   <img height="220em" src="https://github-readme-stats-one.vercel.app/api?username=Deoprag&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=282828&title_color=d65d0e&text_color=fbf1c7&icon_color=d79921" />
   <img height="220em" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Deoprag&layout=compact&theme=gruvbox&hide_border=true&bg_color=282828&title_color=d65d0e&text_color=fbf1c7" />
-</p>
+</p> 
