@@ -8,25 +8,22 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.GH_TOKEN }}
           user: Deoprag
           template: classic
           base: "" 
           
-          # plugin wakatime
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          config_presets: gruvbox
           
-          # plugin music (spotify)
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: top
-          plugin_music_limit: 5
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           
-          # estilo gruvbox dark
           config_timezone: America/Sao_Paulo
           config_order: music, wakatime
-          palette: gruvbox
