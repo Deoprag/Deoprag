@@ -10,19 +10,23 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
+          filename: spotify.svg
           token: ${{ secrets.GH_TOKEN }}
           user: Deoprag
-          template: classic
-          base: "" 
-          
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_sections: time, languages, languages_graphs, editors, editos-graphs, os, os_graphs
-          
+          base: ""
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          
           config_timezone: America/Sao_Paulo
-          config_order: music, wakatime
+
+      - uses: lowlighter/metrics@master
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.GH_TOKEN }}
+          user: Deoprag
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, languages, languages_graphs, editors, editors-graphs, os, os_graphs
+          config_timezone: America/Sao_Paulo
