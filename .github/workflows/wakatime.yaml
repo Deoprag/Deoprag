@@ -1,3 +1,5 @@
+name: wakatime stats update
+
 on:
   schedule:
     - cron: "0 0 * * *"
