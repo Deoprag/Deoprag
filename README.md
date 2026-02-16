@@ -15,6 +15,8 @@
 ---
 
 ### ⏳ tempo de voo (wakatime)
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
 
 ---
 
