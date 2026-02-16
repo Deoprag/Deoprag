@@ -15,3 +15,18 @@
 | ⏳ wakatime (semana) | 🎧 rádio (spotify) |
 | :---: | :---: |
 | ![wakatime](wakatime.svg) | ![spotify](spotify.svg) |
+
+<div align="center">
+  <br>
+  
+  <a href="https://www.linkedin.com/in/pedro-rocha-1889b057/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pdroesofiarabelo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <br>
+  
+  <sub>chama ai</sub>
+</div>
