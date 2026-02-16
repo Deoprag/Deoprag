@@ -2,7 +2,7 @@ name: wakatime stats update
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           SECTION_NAME: wakatime
-          BLOCKS: 📋
+          BLOCKS: 🟩
           TIME_RANGE: last_7_days
-          LANG_COUNT: 10
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
