@@ -16,6 +16,17 @@
 
 ### ⏳ tempo de voo (wakatime)
 <!--START_SECTION:wakatime-->
+
+```txt
+From: 09 February 2026 - To: 16 February 2026
+
+TypeScript   6 hrs 21 mins   ████████████████▒░░░░░░░░   65.33 %
+HTML         3 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.10 %
+CSS          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:wakatime-->
 
 ---
