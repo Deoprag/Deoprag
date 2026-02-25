@@ -28,5 +28,5 @@
   
   <br>
   
-  <sub>chama ai</sub>
+  <sub>me chama ai</sub>
 </div>
