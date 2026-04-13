@@ -19,10 +19,10 @@
 <div align="center">
   <br>
   
-  <a href="https://www.linkedin.com/in/pedro-rocha-1889b057/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-augusto-rocha-rabelo-1889b057/" target="Blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:pdroesofiarabelo@gmail.com" target="_blank">
+  <a href="mailto:pdroesofiarabelo@gmail.com" target="Blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   
