@@ -1,4 +1,5 @@
-![header](github-header-banner.png)
+### eu
+oi, eu sou o pedro
 
 ### 🛠️ stacks
 
